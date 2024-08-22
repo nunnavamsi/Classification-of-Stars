@@ -30,6 +30,7 @@ Hyper Giants - 5
 
 
 
+
 ****MATH  AND FORMULEA****
 Lo = 3.828 x 10^26 Watts (Avg Luminosity of Sun)
 
