@@ -26,8 +26,9 @@ Main Sequence - 3
 Super Giants - 4
 Hyper Giants - 5
 
-****MATH  AND FORMULEA***
+****MATH  AND FORMULEA****
 Lo = 3.828 x 10^26 Watts (Avg Luminosity of Sun)
+
 Ro = 6.9551 x 10^8 m (Avg Radius of Sun)
 
 ****DATASET****
