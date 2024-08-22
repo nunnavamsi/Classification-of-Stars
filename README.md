@@ -12,6 +12,8 @@ In astronomy the early classification, distribution, and cataloging of stars hav
 
 These next-generation telescopes are predicted to significantly increase the size of source catalogs and data and it will become unfeasible for astronomers to manually verify and label individual sources.
 
+
+
 ****TARGET  VARIABLE****
 
 
@@ -24,12 +26,16 @@ Brown Dwarf - 1
 White Dwarf - 2
 Main Sequence - 3
 Super Giants - 4
-Hyper Giants - 5
+Hyper Giants - 5 
+
+
 
 ****MATH  AND FORMULEA****
 Lo = 3.828 x 10^26 Watts (Avg Luminosity of Sun)
 
 Ro = 6.9551 x 10^8 m (Avg Radius of Sun)
+
+
 
 ****DATASET****
 https://www.kaggle.com/datasets/brsdincer/star-type-classification
