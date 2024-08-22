@@ -1,7 +1,7 @@
 # Classification-of-Stars
-![image](https://github.com/user-attachments/assets/1fdd1476-fd00-49a9-b048-3791211f7b87)
+![image](https://github.com/user-attachments/assets/1a57f343-8536-4294-a30f-215e476c4843)
 
-****ADOUT****
+****ABOUT****
 To predict the Type of star based on data such as Temperature of surface, luminosity of star, color and other physical attributes.
 
 ****Purpose:****
